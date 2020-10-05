@@ -1,0 +1,178 @@
+[
+ {
+   "Title": "The Shawshank Redemption",
+   "Year": 1994,
+   "Rating": 9.2,
+   "Categories": ["cff2b7b7-24df-4f52-a97a-b217a87b7ff2"],
+   "Duration": 142,
+   "Description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency."
+ },
+ {
+   "Title": "The Godfather",
+   "Year": 1972,
+   "Rating": 9.2,
+   "Categories": ["cff2b7b7-24df-4f52-a97a-b217a87b7ff2", "cc08a22e-8d5d-43dc-aa6c-cb46464b8203"],
+   "Duration": 175,
+   "Description": "The aging patriarch of an organized cc08a22e-8d5d-43dc-aa6c-cb46464b8203 dynasty transfers control of his clandestine empire to his reluctant son."
+ },
+ {
+   "Title": "The Godfather: Part II",
+   "Year": 1974,
+   "Rating": 9.0,
+   "Categories": ["cff2b7b7-24df-4f52-a97a-b217a87b7ff2", "cc08a22e-8d5d-43dc-aa6c-cb46464b8203"],
+   "Duration": 202,
+   "Description": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family cc08a22e-8d5d-43dc-aa6c-cb46464b8203 syndicate."
+ },
+ {
+   "Title": "The Dark Knight",
+   "Year": 2008,
+   "Rating": 9.0,
+   "Categories": ["434d07ae-e08a-4f7d-aca5-19d67fdb8790", "cc08a22e-8d5d-43dc-aa6c-cb46464b8203", "cff2b7b7-24df-4f52-a97a-b217a87b7ff2"],
+   "Duration": 152,
+   "Description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice."
+ },
+ {
+   "Title": "12 Angry Men",
+   "Year": 1957,
+   "Rating": 8.9,
+   "Categories": ["cff2b7b7-24df-4f52-a97a-b217a87b7ff2"],
+   "Duration": 96,
+   "Description": "A jury holdout attempts to prevent a miscarriage of justice by forcing his colleagues to reconsider the evidence."
+ },
+ {
+   "Title": "Schindler's List",
+   "Year": 1993,
+   "Rating": 8.9,
+   "Categories": ["1bb7b486-9cf3-4a39-bedb-45da196d7d29"],
+   "Duration": 96,
+   "Description": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis."
+ },
+ {
+   "Title": "Pulp Fiction",
+   "Year": 1994,
+   "Rating": 8.9,
+   "Categories": ["cff2b7b7-24df-4f52-a97a-b217a87b7ff2"],
+   "Duration": 154,
+   "Description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption."
+ },
+ {
+   "Title": "The Lord of the Rings: The Return of the King",
+   "Year": 2003,
+   "Rating": 8.9,
+   "Categories": ["752239f8-6756-4ddd-8e4d-57c468ac4f23", "434d07ae-e08a-4f7d-aca5-19d67fdb8790"],
+   "Duration": 201,
+   "Description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring."
+ },
+ {
+   "Title": "The Good, the Bad and the Ugly",
+   "Year": 1966,
+   "Rating": 8.8,
+   "Categories": ["434d07ae-e08a-4f7d-aca5-19d67fdb8790"],
+   "Duration": 161,
+   "Description": "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery."
+ },
+ {
+   "Title": "Fight Club",
+   "Year": 1999,
+   "Rating": 8.8,
+   "Categories": ["cff2b7b7-24df-4f52-a97a-b217a87b7ff2"],
+   "Duration": 139,
+   "Description": "An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more."
+ },
+ {
+   "Title": "The Lord of the Rings: The Fellowship of the Ring",
+   "Year": 2001,
+   "Rating": 8.8,
+   "Categories": ["752239f8-6756-4ddd-8e4d-57c468ac4f23", "434d07ae-e08a-4f7d-aca5-19d67fdb8790"],
+   "Duration": 201,
+   "Description": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron."
+ },
+ {
+   "Title": "Forrest Gump",
+   "Year": 1994,
+   "Rating": 8.7,
+   "Categories": ["cff2b7b7-24df-4f52-a97a-b217a87b7ff2"],
+   "Duration": 144,
+   "Description": "The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate and other historical events unfold through the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart."
+ },
+ {
+   "Title": "Star Wars: Episode V - The Empire Strikes Back",
+   "Year": 1980,
+   "Rating": 8.7,
+   "Categories": ["f9ca4e2a-e4d6-46b0-98ef-32686d22766e", "434d07ae-e08a-4f7d-aca5-19d67fdb8790"],
+   "Duration": 124,
+   "Description": "After the Rebels are brutally overpowered by the Empire on the ice planet Hoth, Luke Skywalker begins Jedi training with Yoda, while his friends are pursued by Darth Vader and a bounty hunter named Boba Fett all over the galaxy."
+ },
+ {
+   "Title": "Inception",
+   "Year": 2010,
+   "Rating": 8.7,
+   "Categories": ["f9ca4e2a-e4d6-46b0-98ef-32686d22766e", "434d07ae-e08a-4f7d-aca5-19d67fdb8790"],
+   "Duration": 148,
+   "Description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O."
+ },
+ {
+   "Title": "The Lord of the Rings: The Two Towers",
+   "Year": 2002,
+   "Rating": 8.7,
+   "Categories": ["752239f8-6756-4ddd-8e4d-57c468ac4f23", "434d07ae-e08a-4f7d-aca5-19d67fdb8790"],
+   "Duration": 169,
+   "Description": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard."
+ },
+ {
+   "Title": "One Flew Over the Cuckoo's Nest",
+   "Year": 1975,
+   "Rating": 8.7,
+   "Categories": ["cff2b7b7-24df-4f52-a97a-b217a87b7ff2", "cc08a22e-8d5d-43dc-aa6c-cb46464b8203"],
+   "Duration": 133,
+   "Description": "A criminal pleads insanity and is admitted to a mental institution, where he rebels against the oppressive nurse and rallies up the scared patients."
+ },
+ {
+   "Title": "Goodfellas",
+   "Year": 1990,
+   "Rating": 8.7,
+   "Categories": ["cff2b7b7-24df-4f52-a97a-b217a87b7ff2", "cc08a22e-8d5d-43dc-aa6c-cb46464b8203"],
+   "Duration": 146,
+   "Description": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American cc08a22e-8d5d-43dc-aa6c-cb46464b8203 syndicate."
+ },
+ {
+   "Title": "City of God",
+   "Year": 2002,
+   "Rating": 8.6,
+   "Categories": ["cff2b7b7-24df-4f52-a97a-b217a87b7ff2", "cc08a22e-8d5d-43dc-aa6c-cb46464b8203"],
+   "Duration": 140,
+   "Description": "In the slums of Rio, two kids' paths diverge as one struggles to become a photographer and the other a kingpin."
+ },
+ {
+   "Title": "It's a Wonderful Life",
+   "Year": 1946,
+   "Rating": 8.6,
+   "Categories": ["71fd526c-f5b7-41e6-b37f-81bd2d43c85f", "cff2b7b7-24df-4f52-a97a-b217a87b7ff2"],
+   "Duration": 130,
+   "Description": "An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed."
+ },
+ {
+   "Title": "Life Is Beautiful",
+   "Year": 1997,
+   "Rating": 8.6,
+   "Categories": ["71fd526c-f5b7-41e6-b37f-81bd2d43c85f", "cff2b7b7-24df-4f52-a97a-b217a87b7ff2"],
+   "Duration": 116,
+   "Description": "When an open-minded Jewish librarian and his son become victims of the Holocaust, he uses a perfect mixture of will, humor, and imagination to protect his son from the dangers around their camp."
+ },
+ {
+   "Title": "Saving Private Ryan",
+   "Year": 1998,
+   "Rating": 8.5,
+   "Categories": ["434d07ae-e08a-4f7d-aca5-19d67fdb8790", "cff2b7b7-24df-4f52-a97a-b217a87b7ff2"],
+   "Duration": 169,
+   "Description": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in 434d07ae-e08a-4f7d-aca5-19d67fdb8790."
+ },
+ {
+   "Title": "Interstellar",
+   "Year": 2014,
+   "Rating": 8.5,
+   "Categories": ["f9ca4e2a-e4d6-46b0-98ef-32686d22766e", "cff2b7b7-24df-4f52-a97a-b217a87b7ff2", "434d07ae-e08a-4f7d-aca5-19d67fdb8790"],
+   "Duration": 169,
+   "Description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival."
+ }
+]
