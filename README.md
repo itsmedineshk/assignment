@@ -1,4 +1,4 @@
-# Video Club App
+# Video Club Application
 
 Video Club is a project created with Django 3.0.5 and Python 3.7.2. It also uses a PostgreSQL database.
 
