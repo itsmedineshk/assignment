@@ -1,0 +1,19 @@
+---
+- hosts: all
+  become: true
+
+  tasks:
+  - name: pulling the code
+    git:
+      repo: https://github.com/project-accou/assignment
+      dest: /opt/docker
+
+  - name: build docker image
+    command: docker build -t simple-devops-image .
+    args:
+      chdir: /opt/docker
+
+  - name: starting the docker compose
+    command: docker-compose up
+    args:
+      chdir: /opt/docker
